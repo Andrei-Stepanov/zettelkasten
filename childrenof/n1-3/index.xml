@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N1 3 on Notes archive.</title>
-    <link>/childrenof/n1-3/</link>
+    <link>https://andrei-stepanov.github.io/zettelkasten/childrenof/n1-3/</link>
     <description>Recent content in N1 3 on Notes archive.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Dec 2017 23:32:37 +0100</lastBuildDate>
     
-	<atom:link href="/childrenof/n1-3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://andrei-stepanov.github.io/zettelkasten/childrenof/n1-3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>n1-3-1</title>
-      <link>/notes/n1-3-1/</link>
+      <link>https://andrei-stepanov.github.io/zettelkasten/notes/n1-3-1/</link>
       <pubDate>Tue, 12 Dec 2017 23:32:37 +0100</pubDate>
       
-      <guid>/notes/n1-3-1/</guid>
+      <guid>https://andrei-stepanov.github.io/zettelkasten/notes/n1-3-1/</guid>
       <description>Краткость и точность в заметках. При составлении заметок, нежно быть кратким и точным. Краткость и точность - принципы составления заметок.</description>
     </item>
     

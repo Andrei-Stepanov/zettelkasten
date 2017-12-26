@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N1 on Notes archive.</title>
-    <link>/childrenof/n1/</link>
+    <link>https://andrei-stepanov.github.io/zettelkasten/childrenof/n1/</link>
     <description>Recent content in N1 on Notes archive.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Dec 2017 23:32:41 +0100</lastBuildDate>
     
-	<atom:link href="/childrenof/n1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://andrei-stepanov.github.io/zettelkasten/childrenof/n1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>n1-1</title>
-      <link>/notes/n1-1/</link>
+      <link>https://andrei-stepanov.github.io/zettelkasten/notes/n1-1/</link>
       <pubDate>Tue, 12 Dec 2017 23:32:41 +0100</pubDate>
       
-      <guid>/notes/n1-1/</guid>
+      <guid>https://andrei-stepanov.github.io/zettelkasten/notes/n1-1/</guid>
       <description>Индекс как точка входа. Карточка в индексе, в данном случае некие тег, ссылается на другие карточки посвященные некой теме. Как правило, на некую тему есть несколько карточек с overview topic, как родитель этой карточки. И на эту карточку должна быть запись в индексе или назначен тег.
 Индекс: &amp;quot;Тема&amp;quot; -&amp;gt; Карточка 18, Карточка 210, Карточка 891.  Индекс используется как точка входа в тему с заведомо предвзятым отношением и ведет к взаимосвязанными идеям.</description>
     </item>
     
     <item>
       <title>n1-2</title>
-      <link>/notes/n1-2/</link>
+      <link>https://andrei-stepanov.github.io/zettelkasten/notes/n1-2/</link>
       <pubDate>Tue, 12 Dec 2017 23:32:41 +0100</pubDate>
       
-      <guid>/notes/n1-2/</guid>
+      <guid>https://andrei-stepanov.github.io/zettelkasten/notes/n1-2/</guid>
       <description>Основное усилие при работе с SlipBox это нахождение связей.</description>
     </item>
     
     <item>
       <title>n1-3</title>
-      <link>/notes/n1-3/</link>
+      <link>https://andrei-stepanov.github.io/zettelkasten/notes/n1-3/</link>
       <pubDate>Tue, 12 Dec 2017 23:32:31 +0100</pubDate>
       
-      <guid>/notes/n1-3/</guid>
+      <guid>https://andrei-stepanov.github.io/zettelkasten/notes/n1-3/</guid>
       <description>Запись как отдельная идея. Запись должна нести новую идею. Идея должна быть самодостаточная и маленькая. Чтобы она была независимой и могла порождать новые связи с другими идеями.</description>
     </item>
     
     <item>
       <title>n1-5</title>
-      <link>/notes/n1-5/</link>
+      <link>https://andrei-stepanov.github.io/zettelkasten/notes/n1-5/</link>
       <pubDate>Tue, 12 Dec 2017 21:59:05 +0100</pubDate>
       
-      <guid>/notes/n1-5/</guid>
+      <guid>https://andrei-stepanov.github.io/zettelkasten/notes/n1-5/</guid>
       <description>Принцип ключевых слов (тегов). При добавлении ключевого слова к карточке, нужно ответить на вопрос: &amp;ldquo;При каких обстоятельствах я хочу наткнутся на эту запись.&amp;rdquo; Когда эта запись может быть полезна. С учетом будущих тем над которыми ты будешь работать.</description>
     </item>
     
     <item>
       <title>n1-4</title>
-      <link>/notes/n1-4/</link>
+      <link>https://andrei-stepanov.github.io/zettelkasten/notes/n1-4/</link>
       <pubDate>Tue, 12 Dec 2017 21:58:08 +0100</pubDate>
       
-      <guid>/notes/n1-4/</guid>
+      <guid>https://andrei-stepanov.github.io/zettelkasten/notes/n1-4/</guid>
       <description>Ложная важность последней информации. Человек ошибочно считает что наиболее важная информация это так которую он только что познал. И уделяет внимание ей больше всего внимания. Хотя как правило эта информация как правило мало значима. SlipBox постоянно нас возвращает к предыдущей информации. Что выливает в некую форму диалога.</description>
     </item>
     

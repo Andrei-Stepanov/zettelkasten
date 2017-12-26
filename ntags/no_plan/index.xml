@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>No_plan on Notes archive.</title>
-    <link>/ntags/no_plan/</link>
+    <link>https://andrei-stepanov.github.io/zettelkasten/ntags/no_plan/</link>
     <description>Recent content in No_plan on Notes archive.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Dec 2017 21:55:38 +0100</lastBuildDate>
     
-	<atom:link href="/ntags/no_plan/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://andrei-stepanov.github.io/zettelkasten/ntags/no_plan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>n2-5</title>
-      <link>/notes/n2-5/</link>
+      <link>https://andrei-stepanov.github.io/zettelkasten/notes/n2-5/</link>
       <pubDate>Tue, 12 Dec 2017 21:55:38 +0100</pubDate>
       
-      <guid>/notes/n2-5/</guid>
+      <guid>https://andrei-stepanov.github.io/zettelkasten/notes/n2-5/</guid>
       <description>Преимущество отсутствия плана. Составлять планы довольно опасно. Это ограничивает движения и требует больше приложенных сил для соблюдения маршрута. При отсутствии интереса или материала это может только тяготить.</description>
     </item>
     
