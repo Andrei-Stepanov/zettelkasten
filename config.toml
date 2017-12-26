@@ -1,7 +1,7 @@
 # https://gohugo.io/getting-started/configuration/#all-variables-yaml
 
 #baseURL = "/"
-baseURL = "https://andrei-stepanov.github.io/zettelkasten/"
+baseURL = "https://skyduke.com/"
 languageCode = "en-us"
 title = "Notes archive."
 theme = "dream"
