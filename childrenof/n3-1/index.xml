@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N3 1 on Notes archive.</title>
-    <link>https://andrei-stepanov.github.io/zettelkasten/childrenof/n3-1/</link>
+    <link>https://skyduke.com/childrenof/n3-1/</link>
     <description>Recent content in N3 1 on Notes archive.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Dec 2017 23:23:55 +0100</lastBuildDate>
     
-	<atom:link href="https://andrei-stepanov.github.io/zettelkasten/childrenof/n3-1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://skyduke.com/childrenof/n3-1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>n3-1-1</title>
-      <link>https://andrei-stepanov.github.io/zettelkasten/notes/n3-1-1/</link>
+      <link>https://skyduke.com/notes/n3-1-1/</link>
       <pubDate>Tue, 12 Dec 2017 23:23:55 +0100</pubDate>
       
-      <guid>https://andrei-stepanov.github.io/zettelkasten/notes/n3-1-1/</guid>
+      <guid>https://skyduke.com/notes/n3-1-1/</guid>
       <description>Согласованность с текущей базой. Новая информация должна быть согласована с текущими знаниями. Нужно проанализировать новые данные относительно текущей информации и составить новые взаимосвязи, базирующиеся на осмыслении.</description>
     </item>
     
