@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index on Notes archive.</title>
-    <link>https://skyduke.com/ntags/index/</link>
+    <link>www.skyduke.com/ntags/index/</link>
     <description>Recent content in Index on Notes archive.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Dec 2017 23:32:41 +0100</lastBuildDate>
     
-	<atom:link href="https://skyduke.com/ntags/index/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.skyduke.com/ntags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>n1-1</title>
-      <link>https://skyduke.com/notes/n1-1/</link>
+      <link>www.skyduke.com/notes/n1-1/</link>
       <pubDate>Tue, 12 Dec 2017 23:32:41 +0100</pubDate>
       
-      <guid>https://skyduke.com/notes/n1-1/</guid>
+      <guid>www.skyduke.com/notes/n1-1/</guid>
       <description>Индекс как точка входа. Карточка в индексе, в данном случае некие тег, ссылается на другие карточки посвященные некой теме. Как правило, на некую тему есть несколько карточек с overview topic, как родитель этой карточки. И на эту карточку должна быть запись в индексе или назначен тег.
 Индекс: &amp;quot;Тема&amp;quot; -&amp;gt; Карточка 18, Карточка 210, Карточка 891.  Индекс используется как точка входа в тему с заведомо предвзятым отношением и ведет к взаимосвязанными идеям.</description>
     </item>
