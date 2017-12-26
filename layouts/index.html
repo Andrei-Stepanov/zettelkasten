@@ -1,0 +1,45 @@
+{{ define "frontmenu" }}
+{{ $paginator := .Paginate (.Data.Pages) (index .Site.Params "paginate" | default 6) }}
+<div class="ui top secondary menu">
+  <div class="item">
+    <i class="inverted big link bullseye icon dream-flip-toggle" title="{{ i18n "flip" }}"></i>
+  </div>
+</div>
+{{ end }}
+
+{{ define "main"}}
+<div class="ui one column stackable center aligned page grid">
+  <div class="column twelve wide">
+    <div class="ui compact center aligned segment">
+
+      <div class="ui raised compact segments">
+        {{ if .Site.Taxonomies.tags }}
+        <div class="ui very padded center aligned inverted segment dream-tags">
+          {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+          <a class="ui label" href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" title="{{ $name }}">{{ $name }}</a>
+          {{ end }}
+        </div >
+        {{ end }}
+
+        {{ if .Site.Taxonomies.ntags }}
+        <div class="ui center aligned secondary inverted segment">
+          <div class="ui inverted accordion">
+            <div class="title">
+              <i class="dropdown icon"></i>
+              Cloud of possible tags
+            </div>
+            <div class="content">
+              {{ range $name, $taxonomy := .Site.Taxonomies.ntags }}
+              <a class="ui label" href="{{ "/ntags/" | relLangURL }}{{ $name | urlize }}" title="{{ $name }}">{{ $name }}</a>
+              {{ end }}
+            </div>
+          </div>
+        </div >
+        {{ end }}
+      </div >
+
+    </div >
+  </div>
+</div>
+<!-- vim: set ai et ts=2 sw=2 :-->
+{{ end }}

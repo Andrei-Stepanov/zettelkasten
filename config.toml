@@ -1,0 +1,19 @@
+# https://gohugo.io/getting-started/configuration/#all-variables-yaml
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Notes archive."
+theme = "dream"
+
+# copyright = "Copyright (c), Andrei Stepanov; all rights reserved."
+
+[taxonomies]
+tag = "tags"
+# Next possible tag created from this note
+ntag = "ntags"
+childof = "childrenof"
+
+[params]
+author = "Andrei Stepanov"
+motto = "Unity"
+github = "andrei-stepanov"
