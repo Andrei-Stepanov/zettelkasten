@@ -1,7 +1,7 @@
 # https://gohugo.io/getting-started/configuration/#all-variables-yaml
 
 #baseURL = "/"
-baseURL = "www.skyduke.com"
+baseURL = "http://www.skyduke.com"
 languageCode = "en-us"
 title = "Notes archive."
 theme = "dream"
