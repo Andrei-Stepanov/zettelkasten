@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N2 on Notes archive.</title>
+    <link>/childrenof/n2/</link>
+    <description>Recent content in N2 on Notes archive.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Dec 2017 23:32:46 +0100</lastBuildDate>
+    
+	<atom:link href="/childrenof/n2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>n2-3</title>
+      <link>/notes/n2-3/</link>
+      <pubDate>Tue, 12 Dec 2017 23:32:46 +0100</pubDate>
+      
+      <guid>/notes/n2-3/</guid>
+      <description>Групповой brain-storming не эффективен. Групповой brain-storming мало эффективная методика. Так как уменьшается ответственность.</description>
+    </item>
+    
+    <item>
+      <title>n2-4</title>
+      <link>/notes/n2-4/</link>
+      <pubDate>Tue, 12 Dec 2017 23:31:51 +0100</pubDate>
+      
+      <guid>/notes/n2-4/</guid>
+      <description>Спорт помогает учится. Стресс мешает учится. Спорт снимает стресс. Вывод: Спорт уменьшает количество гормонов которые мешают учится.</description>
+    </item>
+    
+    <item>
+      <title>n2-1</title>
+      <link>/notes/n2-1/</link>
+      <pubDate>Tue, 12 Dec 2017 22:00:49 +0100</pubDate>
+      
+      <guid>/notes/n2-1/</guid>
+      <description>Первый шаг как средство решения сложной задачи. Емкая задача. C длительной задачей намного проще справится если мы видим как сделать первый шаг.</description>
+    </item>
+    
+    <item>
+      <title>n2-2</title>
+      <link>/notes/n2-2/</link>
+      <pubDate>Tue, 12 Dec 2017 21:59:53 +0100</pubDate>
+      
+      <guid>/notes/n2-2/</guid>
+      <description>Важность ощущения завершения. Мы ускоряемся при виде финишной прямой. Марафонцы бегут быстрее под конец. Так и я, при виде конца хочется быстрее закончить.</description>
+    </item>
+    
+    <item>
+      <title>n2-5</title>
+      <link>/notes/n2-5/</link>
+      <pubDate>Tue, 12 Dec 2017 21:55:38 +0100</pubDate>
+      
+      <guid>/notes/n2-5/</guid>
+      <description>Преимущество отсутствия плана. Составлять планы довольно опасно. Это ограничивает движения и требует больше приложенных сил для соблюдения маршрута. При отсутствии интереса или материала это может только тяготить.</description>
+    </item>
+    
+  </channel>
+</rss>

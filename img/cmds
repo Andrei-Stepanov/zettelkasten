@@ -1,0 +1,5 @@
+$ #convert pexels-photo-235994.jpeg -resize 640x426\! pexels-photo-235994_small.jpeg
+
+$ #find . -type f -name '*.jpeg' -print0 | xargs --null -I{} sh -c 'mv "$1" "${1%.jpeg}.jpg"' _ {} \;
+
+https://www.pexels.com/

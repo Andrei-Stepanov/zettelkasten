@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Group_problem_solving on Notes archive.</title>
+    <link>/ntags/group_problem_solving/</link>
+    <description>Recent content in Group_problem_solving on Notes archive.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Dec 2017 23:32:46 +0100</lastBuildDate>
+    
+	<atom:link href="/ntags/group_problem_solving/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>n2-3</title>
+      <link>/notes/n2-3/</link>
+      <pubDate>Tue, 12 Dec 2017 23:32:46 +0100</pubDate>
+      
+      <guid>/notes/n2-3/</guid>
+      <description>Групповой brain-storming не эффективен. Групповой brain-storming мало эффективная методика. Так как уменьшается ответственность.</description>
+    </item>
+    
+  </channel>
+</rss>

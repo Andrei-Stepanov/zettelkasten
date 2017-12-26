@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes_tags on Notes archive.</title>
+    <link>/ntags/notes_tags/</link>
+    <description>Recent content in Notes_tags on Notes archive.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Dec 2017 21:59:05 +0100</lastBuildDate>
+    
+	<atom:link href="/ntags/notes_tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>n1-5</title>
+      <link>/notes/n1-5/</link>
+      <pubDate>Tue, 12 Dec 2017 21:59:05 +0100</pubDate>
+      
+      <guid>/notes/n1-5/</guid>
+      <description>Принцип ключевых слов (тегов). При добавлении ключевого слова к карточке, нужно ответить на вопрос: &amp;ldquo;При каких обстоятельствах я хочу наткнутся на эту запись.&amp;rdquo; Когда эта запись может быть полезна. С учетом будущих тем над которыми ты будешь работать.</description>
+    </item>
+    
+  </channel>
+</rss>
