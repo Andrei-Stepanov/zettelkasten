@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Notes archive.</title>
+    <link>http://www.skyduke.com/tags/</link>
+    <description>Recent content in Tags on Notes archive.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Dec 2017 23:32:41 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.skyduke.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Efficiency</title>
+      <link>http://www.skyduke.com/tags/efficiency/</link>
+      <pubDate>Tue, 12 Dec 2017 23:32:41 +0100</pubDate>
+      
+      <guid>http://www.skyduke.com/tags/efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notes</title>
+      <link>http://www.skyduke.com/tags/notes/</link>
+      <pubDate>Tue, 12 Dec 2017 23:32:41 +0100</pubDate>
+      
+      <guid>http://www.skyduke.com/tags/notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding</title>
+      <link>http://www.skyduke.com/tags/understanding/</link>
+      <pubDate>Tue, 12 Dec 2017 23:22:16 +0100</pubDate>
+      
+      <guid>http://www.skyduke.com/tags/understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xxx</title>
+      <link>http://www.skyduke.com/tags/xxx/</link>
+      <pubDate>Tue, 12 Dec 2017 23:32:45 +0100</pubDate>
+      
+      <guid>http://www.skyduke.com/tags/xxx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
