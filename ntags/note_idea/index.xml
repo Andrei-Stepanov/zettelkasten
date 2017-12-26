@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Note_idea on Notes archive.</title>
-    <link>www.skyduke.com/ntags/note_idea/</link>
+    <link>http://www.skyduke.com/ntags/note_idea/</link>
     <description>Recent content in Note_idea on Notes archive.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Dec 2017 23:26:41 +0100</lastBuildDate>
     
-	<atom:link href="www.skyduke.com/ntags/note_idea/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.skyduke.com/ntags/note_idea/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>n3-3</title>
-      <link>www.skyduke.com/notes/n3-3/</link>
+      <link>http://www.skyduke.com/notes/n3-3/</link>
       <pubDate>Tue, 12 Dec 2017 23:26:41 +0100</pubDate>
       
-      <guid>www.skyduke.com/notes/n3-3/</guid>
+      <guid>http://www.skyduke.com/notes/n3-3/</guid>
       <description>Что делать с новой заметкой. Важно новые записи соединить с текущими. Процесс соединения, установления связей намного лучше зубрежки или повторного просмотра записей.</description>
     </item>
     
